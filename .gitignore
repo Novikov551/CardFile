@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Practice/NumberSumm/.vs
+/Practice/NumberSumm/NumberSumm/bin/Debug/net7.0
+/Practice/NumberSumm/NumberSumm/obj
