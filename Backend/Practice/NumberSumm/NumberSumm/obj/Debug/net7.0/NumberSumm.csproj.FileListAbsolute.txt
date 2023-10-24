@@ -1,0 +1,14 @@
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\bin\Debug\net7.0\NumberSumm.exe
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\bin\Debug\net7.0\NumberSumm.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\bin\Debug\net7.0\NumberSumm.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\bin\Debug\net7.0\NumberSumm.dll
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\bin\Debug\net7.0\NumberSumm.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\NumberSumm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\NumberSumm.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\NumberSumm.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\NumberSumm.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\NumberSumm.dll
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\refint\NumberSumm.dll
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\NumberSumm.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\NumberSumm.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\StudentsAI\DSBot\FunBot\NumberSumm\NumberSumm\obj\Debug\net7.0\ref\NumberSumm.dll

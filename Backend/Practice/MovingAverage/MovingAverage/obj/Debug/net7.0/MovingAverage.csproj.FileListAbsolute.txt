@@ -1,0 +1,14 @@
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\bin\Debug\net7.0\MovingAverage.exe
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\bin\Debug\net7.0\MovingAverage.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\bin\Debug\net7.0\MovingAverage.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\bin\Debug\net7.0\MovingAverage.dll
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\bin\Debug\net7.0\MovingAverage.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\MovingAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\MovingAverage.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\MovingAverage.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\MovingAverage.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\MovingAverage.dll
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\refint\MovingAverage.dll
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\MovingAverage.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\MovingAverage.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\MyProjects\CardFile\Practice\MovingAverage\MovingAverage\obj\Debug\net7.0\ref\MovingAverage.dll
